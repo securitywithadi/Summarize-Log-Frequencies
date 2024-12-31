@@ -1,0 +1,2 @@
+#Sample_Output.txt
+Counter({'EVENT_A': 2, 'EVENT_B': 2, 'EVENT_C': 1})
